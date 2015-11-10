@@ -93,3 +93,5 @@
 ```
 
 ### Advanced Usage
+
+Have a look at: http://xonsh.org/tutorial_hist.html
